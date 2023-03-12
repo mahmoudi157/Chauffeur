@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051232384416",
+    "project_id": "cauffaur",
+    "storage_bucket": "cauffaur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051232384416:android:be94a938c98c2e921b60c5",
+        "android_client_info": {
+          "package_name": "com.app.chauffeur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051232384416-0nqqofp61hqic8dd1inrn4rfnvk3hj11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59ouxABlGWO03UQQDPAGCirraE1RMnL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051232384416-0nqqofp61hqic8dd1inrn4rfnvk3hj11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
